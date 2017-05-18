@@ -1,0 +1,9 @@
+# Dependency directories
+node_modules/
+
+#build Folder
+build/**.*
+
+.history
+.vscode
+.DS_Store
